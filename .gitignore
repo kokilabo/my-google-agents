@@ -1,0 +1,17 @@
+# Environment variables
+multi_tool_agent/.env
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# OS-specific files
+.DS_Store
+
+# IDE/Editor specific files
+.vscode/
+.idea/
